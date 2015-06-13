@@ -1,0 +1,38 @@
+{
+  "name": "gtfe-demo",
+  "version": "0.0.1",
+  "description": "demo project for gintong",
+  "author": {
+    "name": "liuhuixiao",
+    "email": "liuhuixiao@gintong.com"
+  },
+  "main": "server/index.js",
+  "dependencies": {
+    "compression": "1.4.0",
+    "errorhandler": "1.3.3",
+    "express": "4.11.2",
+    "http-proxy": "1.8.1",
+    "morgan": "1.5.1",
+    "connect-inject": "^0.3.2"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gintong-team/gtfe-demo.git"
+  },
+  "keywords": [
+    "fis",
+    "angular",
+    "workflow",
+    "tools",
+    "Front-end Integrated Solution"
+  ],
+  "homepage": "https://github.com/gintong-team/gtfe-demo",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
